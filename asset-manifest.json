@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/drone-simulator/static/css/main.68e55275.css",
+    "main.js": "/drone-simulator/static/js/main.6e95147f.js",
+    "static/media/flytbase.png": "/drone-simulator/static/media/flytbase.f38aa32b358343343688.png",
+    "index.html": "/drone-simulator/index.html",
+    "main.68e55275.css.map": "/drone-simulator/static/css/main.68e55275.css.map",
+    "main.6e95147f.js.map": "/drone-simulator/static/js/main.6e95147f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68e55275.css",
+    "static/js/main.6e95147f.js"
+  ]
+}
