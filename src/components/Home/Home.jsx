@@ -12,7 +12,7 @@ import "leaflet/dist/leaflet.css";
 import Navbar from "../Navbar/Navbar";
 
 const icon = L.icon({
-  iconUrl: "./marker.png",
+  iconUrl: "https://i.ibb.co/DWf0zyW/marker.png",
   iconSize: [60, 60],
 });
 
